@@ -1,3 +1,37 @@
+## 👋 Hi, I'm Muaz Khan
+
+💻 Passionate Frontend / Full-Stack Developer  
+🚀 Currently learning **React.js, Vite, JavaScript, and Web Development**  
+🌱 Building projects to improve my skills every day  
+
+### 🔧 Technologies & Tools
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Node.js (Learning)
+- MongoDB (Learning)
+- Git & GitHub
+- VS Code
+
+### 📌 Projects
+- To-Do List App  
+- Quiz Application  
+- Portfolio Website  
+- Leaderboard System (React + Node + MongoDB)
+
+### 🎯 Goals
+- Become a Professional Full-Stack Developer  
+- Build Scalable Web Applications  
+- Contribute to Open Source Projects  
+
+### 📫 Connect With Me
+- LinkedIn: *Add your LinkedIn link here*
+- Email: *Add your email here*
+
+---
+
+
+
+
 # 💫 About Me:
 ## 👋 Hi, I'm Muaz Khan<br><br>💻 Passionate Frontend / Full-Stack Developer  <br>🚀 Currently learning **React.js, Vite, JavaScript, and Web Development**  <br>🌱 Building projects to improve my skills every day  <br><br>### 🔧 Technologies & Tools<br>- HTML5, CSS3, JavaScript (ES6+)<br>- React.js<br>- Node.js (Learning)<br>- MongoDB (Learning)<br>- Git & GitHub<br>- VS Code<br><br>### 📌 Projects<br>- To-Do List App  <br>- Quiz Application  <br>- Portfolio Website  <br>- Leaderboard System (React + Node + MongoDB)<br><br>### 🎯 Goals<br>- Become a Professional Full-Stack Developer  <br>- Build Scalable Web Applications  <br>- Contribute to Open Source Projects  <br><br>### 📫 Connect With Me<br>- LinkedIn: *Add your LinkedIn link here*<br>- Email: *Add your email here*<br>
 
