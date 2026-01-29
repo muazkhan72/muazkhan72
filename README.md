@@ -37,8 +37,8 @@ I enjoy turning ideas into real-world projects using clean code and best develop
 - Continuously Learn New Technologies  
 
 ### 📫 Connect With Me
-- LinkedIn: *Add your LinkedIn link*
-- Email: *Add your email*
+- LinkedIn: *www.linkedin.com/in/muaz-khan-8151483a1*
+- Email: *muazkhan7253@gmail.com*
 
 ---
 
