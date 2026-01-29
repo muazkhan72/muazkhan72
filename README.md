@@ -1,40 +1,46 @@
 ## 👋 Hi, I'm Muaz Khan
 
-💻 Passionate Frontend / Full-Stack Developer  
-🚀 Currently learning **React.js, Vite, JavaScript, and Web Development**  
-🌱 Building projects to improve my skills every day  
+I am a **MERN Full Stack Developer** passionate about building modern, responsive, and scalable web applications.  
+I enjoy turning ideas into real-world projects using clean code and best development practices.
 
-### 🔧 Technologies & Tools
+### 🚀 Tech Stack
+**Frontend**
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js
-- Node.js (Learning)
-- MongoDB (Learning)
+- Vite
+- Bootstrap / Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+- Mongoose
+
+**Tools & Platforms**
 - Git & GitHub
 - VS Code
+- Postman
+- Netlify / Vercel
 
-### 📌 Projects
-- To-Do List App  
-- Quiz Application  
-- Portfolio Website  
-- Leaderboard System (React + Node + MongoDB)
+### 📌 What I’m Working On
+- Full-Stack Web Applications  
+- Leaderboard & Ranking Systems  
+- Portfolio and UI Projects  
+- Improving Backend & API Development Skills  
 
 ### 🎯 Goals
-- Become a Professional Full-Stack Developer  
-- Build Scalable Web Applications  
+- Become an Expert MERN Stack Developer  
+- Build High-Performance and Scalable Applications  
 - Contribute to Open Source Projects  
+- Continuously Learn New Technologies  
 
 ### 📫 Connect With Me
-- LinkedIn: *Add your LinkedIn link here*
-- Email: *Add your email here*
+- LinkedIn: *Add your LinkedIn link*
+- Email: *Add your email*
 
 ---
-
-
-
-
-# 💫 About Me:
-## 👋 Hi, I'm Muaz Khan<br><br>💻 Passionate Frontend / Full-Stack Developer  <br>🚀 Currently learning **React.js, Vite, JavaScript, and Web Development**  <br>🌱 Building projects to improve my skills every day  <br><br>### 🔧 Technologies & Tools<br>- HTML5, CSS3, JavaScript (ES6+)<br>- React.js<br>- Node.js (Learning)<br>- MongoDB (Learning)<br>- Git & GitHub<br>- VS Code<br><br>### 📌 Projects<br>- To-Do List App  <br>- Quiz Application  <br>- Portfolio Website  <br>- Leaderboard System (React + Node + MongoDB)<br><br>### 🎯 Goals<br>- Become a Professional Full-Stack Developer  <br>- Build Scalable Web Applications  <br>- Contribute to Open Source Projects  <br><br>### 📫 Connect With Me<br>- LinkedIn: *Add your LinkedIn link here*<br>- Email: *Add your email here*<br>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1K77o2txHb/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/muaz.khan.72) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muaz-khan-8151483a1) 
